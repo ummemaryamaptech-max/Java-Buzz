@@ -18,4 +18,4 @@ This is a modern, responsive website for **Java Buzz**, located at **Metro Star 
 - `robots.txt` & `sitemap.xml`: Search Engine Optimization files.
 
 ## 🌍 Live Link
-[Paste your GitHub Pages link here]
+[https://ummemaryamaptech-max.github.io/Java-Buzz/]
