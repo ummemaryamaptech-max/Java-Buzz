@@ -1,0 +1,14 @@
+[
+    {"id": 1, "title": "Art of Roasting", "excerpt": "Mastering the bean at Metro Star Gate."},
+    {"id": 2, "title": "Espresso Guide", "excerpt": "The secret to the perfect crema."},
+    {"id": 3, "title": "Coffee & Health", "excerpt": "Antioxidants in every single sip."},
+    {"id": 4, "title": "Latte Art 101", "excerpt": "Pouring hearts like a professional barrista."},
+    {"id": 5, "title": "Cold Brew Science", "excerpt": "Why 18 hours makes the difference."},
+    {"id": 6, "title": "Arabica vs Robusta", "excerpt": "Choosing the right bean for your taste."},
+    {"id": 7, "title": "Karachi Cafe Vibes", "excerpt": "The modern coffee culture in Pakistan."},
+    {"id": 8, "title": "Sustainable Sourcing", "excerpt": "Helping farmers through fair trade."},
+    {"id": 9, "title": "Morning Rituals", "excerpt": "Why Java Buzz is your best start."},
+    {"id": 10, "title": "Grand Opening", "excerpt": "Our journey at Star Gate Karachi."},
+    {"id": 11, "title": "The Perfect Pour Over", "excerpt": "Mastering the V60 technique for a clean and aromatic cup of coffee."},
+    {"id": 12, "title": "Coffee Pairing Secrets", "excerpt": "Which bakery items from our menu pair best with a Dark Mocha."}
+]
